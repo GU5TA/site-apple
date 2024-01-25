@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido para treina as propriedades do flex-box e hospedar na nuvem por um curto periodo de tempo.
+Esse projeto foi desenvolvido para treinar as propriedades do flex-box.
